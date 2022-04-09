@@ -1,0 +1,20 @@
+h2{
+  color: #fff120;
+}
+p {
+  text-align: justify;
+}
+.esq {
+  margin-left: 18%;
+  margin-right: 42%;
+  margin-top: 3%;
+}
+.dir{
+  margin-left: 42%;
+  margin-right: 18%;
+  margin-top: 3%;
+}
+.infos {
+  color: white;
+  font-family: sans-serif;
+}
