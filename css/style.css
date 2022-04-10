@@ -3,27 +3,32 @@ body {
   background-image: black;
   background-repeat: repeat-x;
   font-family: monospace;
+  margin:10%;
+  margin-top: 2%;
+  }
+  p{
+    color: white;
   }
 hr {
   color: #ffd924;
-  width: 65%;
+
     box-shadow: 0 0 5px #ffd924,
                 0 0 25px #ffd924,
                 0 0 50px #ffd924,
                 0 0 200px #ffd924;
 }
-
-img {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
+#logo {
+  display: inline-block;
+  width: 350px;
 }
 
 #links{
-  margin:auto;
-  text-align: center;
-  margin-top: 2%;
-  margin-bottom: 2%;
+  display: inline-block;
+  width:65%;
+  text-align: right;
+  margin-bottom: 1%;
+  font-family: monospace;
+  font-size: 140%;
 }
 .btn{
   font-weight: lighter;
