@@ -1,7 +1,5 @@
 body {
   background: black;
-  background-image: black;
-  background-repeat: repeat-x;
   font-family: monospace;
   margin:10%;
   margin-top: 2%;
@@ -16,10 +14,6 @@ hr {
                 0 0 25px #ffd924,
                 0 0 50px #ffd924,
                 0 0 200px #ffd924;
-}
-#logo {
-  display: inline-block;
-  width: 350px;
 }
 
 #links{
@@ -49,4 +43,10 @@ hr {
               0 0 25px #ffd924,
               0 0 50px #ffd924,
               0 0 200px #ffd924;
+}
+footer{
+  float:left;
+  width: 100%;
+  text-align: center;
+  margin-bottom: 2%;
 }

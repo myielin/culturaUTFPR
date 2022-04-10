@@ -1,0 +1,29 @@
+.maior, .menor {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 2%;
+  border-style: solid;
+  border-width: thin;
+  border-color: white;
+  padding:1%;
+  float: left;
+  transition: width 1s, border 2s, padding 1s;
+  transition-timing-function: ease-in-out;
+
+}
+
+.maior:hover{
+  border:none;
+  width:100%;
+  padding:0px;
+}
+.menor:hover{
+  border:none;
+  padding:0px;
+  width:50%;
+}
+
+#fr{
+  float:right;
+}
