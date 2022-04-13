@@ -24,9 +24,11 @@ p {
   float: right;
   display: inline-block;
   margin-top: 5%;
+  width: 36%;
 }
 .eicones {
   float: left;
   display: inline-block;
   margin-top: 5%;
+  width: 36%;
 }
