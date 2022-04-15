@@ -1,2 +1,8 @@
 console.log("hi!")
-// document.addEventListener("scroll", document.getElementById('links').style.position = "fixed")
+$("#sobre").click(function(){
+$("#conteudo").load("sobre.html")
+})
+
+
+
+//document.addEventListener("scroll", document.getElementById('links').style.position = "fixed")
