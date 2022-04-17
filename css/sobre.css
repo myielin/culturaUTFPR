@@ -1,8 +1,21 @@
 p {
   color: white;
   font-size: 130%;
+  text-align: justify;
 }
 
-h1, h2{
+#conheca{
+  font-size: 230%;
+  margin:5%;
+  text-align: center;
+  color: #ffee88;
+
+  text-shadow: 0 0 2px #ffd924,
+              0 0 10px #ffd924,
+              0 0 30px #ffd924,
+              0 0 130px #ffd924;
+}
+
+h2{
   color: #fff120;
 }

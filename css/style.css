@@ -15,6 +15,10 @@ hr {
                 0 0 50px #ffd924,
                 0 0 200px #ffd924;
 }
+#logo {
+   width: 32%;
+   display: inline-block;
+}
 
 #links{
   display: inline-block;
@@ -66,6 +70,24 @@ footer{
 @media only screen and (max-width: 730px){
   #links {
     font-size: 100%;
+    text-align: center;
   }
 
+}
+@media only screen and (max-width: 470px){
+  #links {
+    font-size: 100%;
+    text-align: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+    margin-top: 2%;
+    }
+  #logo{
+    width: 49%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    }
 }

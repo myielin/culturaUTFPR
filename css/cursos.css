@@ -34,6 +34,7 @@ p {
 }
 
 @media only screen and (max-width: 858px) {
+  body{color: blue;}
   .esq, .dir {
     width: 100%;
     display: block;
@@ -41,7 +42,7 @@ p {
   }
 
   .eicones, .dicones{
-    width:52%;
+    width:68%;
     display: block;
     margin-right: auto;
     margin-left: auto;
