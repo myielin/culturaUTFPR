@@ -4,8 +4,12 @@ body {
   margin:10%;
   margin-top: 2%;
   }
+  h2{
+    color: #fff120;
+  }
   p{
     color: white;
+    text-align: justify;
   }
 hr {
   color: #ffd924;
