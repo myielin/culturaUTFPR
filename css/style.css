@@ -58,7 +58,7 @@ footer{
 
 @media only screen and (max-width: 1046px) {
   body {
-    margin: 1%;
+    margin: 3%;
   }
 }
 
@@ -74,7 +74,7 @@ footer{
   }
 
 }
-@media only screen and (max-width: 470px){
+@media only screen and (max-width: 520px){
   #links {
     font-size: 100%;
     text-align: center;

@@ -11,11 +11,13 @@ p {
   display: inline-block;
   width: 60%;
   margin-top: 3%;
+  float: left;
 }
 .dir{
   width: 60%;
   float: right;
   margin-top: 3%;
+  display: inline-block;
 }
 .infos {
   color: white;
@@ -34,7 +36,7 @@ p {
 }
 
 @media only screen and (max-width: 858px) {
-  body{color: blue;}
+
   .esq, .dir {
     width: 100%;
     display: block;
