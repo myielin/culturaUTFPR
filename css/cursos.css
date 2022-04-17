@@ -1,17 +1,17 @@
 #conteudo{
-  font-size: 125%;
+  font-size: 135%;
 }
 .esq {
   display: inline-block;
-  width: 60%;
-  margin-top: 3%;
+  width: 62%;
+  margin-top: 5%;
   float: left;
 }
 .dir{
   display: inline-block;
-  width: 60%;
+  width: 62%;
   float: right;
-  margin-top: 3%;
+  margin-top: 5%;
 }
 .infos {
   color: white;
@@ -20,13 +20,13 @@
   float: right;
   display: inline-block;
   margin-top: 5%;
-  width: 35%;
+  width: 34%;
 }
 .eicones {
   float: left;
   display: inline-block;
   margin-top: 5%;
-  width: 35%;
+  width: 34%;
 }
 
 @media only screen and (max-width: 858px) {

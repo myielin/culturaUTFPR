@@ -6,6 +6,10 @@ body {
   }
   h2{
     color: #fff120;
+    font-weight: bold;
+    margin: 2%;
+    margin-left: 0%;
+    font-size: 130%;
   }
   p{
     color: white;
@@ -13,7 +17,6 @@ body {
   }
 hr {
   color: #ffd924;
-
     box-shadow: 0 0 5px #ffd924,
                 0 0 25px #ffd924,
                 0 0 50px #ffd924,
@@ -26,11 +29,10 @@ hr {
 
 #links{
   display: inline-block;
-  width:65%;
+  width:66%;
   margin-bottom: 1%;
   margin-top: 9%;
-  font-family: monospace;
-  font-size: 140%;
+  font-size: 145%;
   text-align: right;
 }
 .btn{
