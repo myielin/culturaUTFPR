@@ -1,0 +1,9 @@
+$("#dp").click(function(){
+  $(window).attr('location',"https://www.baixelivros.com.br/dominio-publico")
+})
+$("#chemtube").click(function(){
+  $(window).attr('location',"https://www.chemtube3d.com/")
+})
+$("#cp").click(function(){
+  $(window).attr('location',"https://www.connectedpapers.com/")
+})

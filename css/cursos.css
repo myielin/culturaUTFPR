@@ -3,13 +3,13 @@
 }
 .esq {
   display: inline-block;
-  width: 62%;
+  width: 61%;
   margin-top: 5%;
   float: left;
 }
 .dir{
   display: inline-block;
-  width: 62%;
+  width: 61%;
   float: right;
   margin-top: 5%;
 }
