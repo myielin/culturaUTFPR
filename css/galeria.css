@@ -12,6 +12,8 @@
   transition-timing-function: ease-in-out;
 
 }
+.menor{ width: 47%; }
+.maior{ width: 98%; }
 
 .maior:hover{
   border:none;
